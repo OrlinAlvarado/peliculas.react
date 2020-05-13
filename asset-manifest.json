@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/peliculas.react/static/css/main.499ea8f6.chunk.css",
+    "main.js": "/peliculas.react/static/js/main.58c3b74f.chunk.js",
+    "main.js.map": "/peliculas.react/static/js/main.58c3b74f.chunk.js.map",
+    "runtime-main.js": "/peliculas.react/static/js/runtime-main.9455f3a2.js",
+    "runtime-main.js.map": "/peliculas.react/static/js/runtime-main.9455f3a2.js.map",
+    "static/css/2.cd1899df.chunk.css": "/peliculas.react/static/css/2.cd1899df.chunk.css",
+    "static/js/2.51dc26c4.chunk.js": "/peliculas.react/static/js/2.51dc26c4.chunk.js",
+    "static/js/2.51dc26c4.chunk.js.map": "/peliculas.react/static/js/2.51dc26c4.chunk.js.map",
+    "index.html": "/peliculas.react/index.html",
+    "precache-manifest.ef9a0d4064f4f8d20d23eff4eb6d6660.js": "/peliculas.react/precache-manifest.ef9a0d4064f4f8d20d23eff4eb6d6660.js",
+    "service-worker.js": "/peliculas.react/service-worker.js",
+    "static/css/2.cd1899df.chunk.css.map": "/peliculas.react/static/css/2.cd1899df.chunk.css.map",
+    "static/css/main.499ea8f6.chunk.css.map": "/peliculas.react/static/css/main.499ea8f6.chunk.css.map",
+    "static/js/2.51dc26c4.chunk.js.LICENSE.txt": "/peliculas.react/static/js/2.51dc26c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9455f3a2.js",
+    "static/css/2.cd1899df.chunk.css",
+    "static/js/2.51dc26c4.chunk.js",
+    "static/css/main.499ea8f6.chunk.css",
+    "static/js/main.58c3b74f.chunk.js"
+  ]
+}
